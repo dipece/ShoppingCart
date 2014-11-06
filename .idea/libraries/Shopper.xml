@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Shopper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Shopper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
